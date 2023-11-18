@@ -8,6 +8,8 @@ Este projeto apresenta uma aplicação Flutter com autenticação de usuário na
 
 ## Capturas de Tela
 
+![Tela de Login](https://github.com/joaoygo/prova_flutter/blob/main/prints/TelaDeLogin.png)
+![Tela de Listagem](https://github.com/joaoygo/prova_flutter/blob/main/prints/TelaDeListagem.png)
 
 ## Recursos
 
